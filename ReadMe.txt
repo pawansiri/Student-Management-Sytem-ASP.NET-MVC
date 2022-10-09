@@ -1,0 +1,1 @@
+This project is a Student Management System develped using ASP.Net MVC.
